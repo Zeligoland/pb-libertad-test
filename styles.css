@@ -9,7 +9,7 @@
 
 .power-bi-report iframe {
     width: 100%;                
-    height: 80vh;               
+    height: 100vh;               
     aspect-ratio: 16 / 9;       
     border: none;              
 }
